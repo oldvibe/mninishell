@@ -1,8 +1,6 @@
-#include <stdio.h>
+#include "../include/utils.h"
 
-
-// yasser hat chi split hna
-
-char **ft_split(char *s)
+char	**ft_split(const char *s, char c)
 {
+
 }
